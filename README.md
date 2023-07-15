@@ -21,6 +21,8 @@ Then to get started you can look at the `magonia` list of UAP sightings:
 
 ```clojure
 (magonia)
+[{"date" "7/1868", "desc" "A strange \"aerial construction\" bearing lights and making engine noises flew low over this town. Local people also described it as a giant bird covered with large scales producing a metallic noise. Although not an actual landing, this is the first instance of close observation of an unknown object at low altitude in the nineteenth cen
+...
 ```
 
 ## License
