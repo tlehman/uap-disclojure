@@ -10,5 +10,3 @@
   "Parses the magonia.json file compiled by @richgel999"
   []
   (parse-json-file "magonia.json"))
-
-
